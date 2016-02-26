@@ -45,31 +45,140 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 116px;
+  width: 800px;
+}
 
+#ger1 {
+  background-color: black;
+}
+
+#ger2 {
+  background-color: red;
+}
+ #ger3 {
+  background-color: yellow;
+}
 
 /* Lithuania */
+#lithuania div {
+  height: 116px;
+  width: 800px;
+}
 
+#lit1 {
+  background-color: yellow;
+}
+
+#lit2 {
+  background-color: green;
+}
+ #lit3 {
+  background-color: red;
+}
 /* Yemen */
+#yemen div {
+  height: 116px;
+  width: 800px;
+}
 
+#yemen1 {
+  background-color: red;
+}
+
+#yemen2 {
+  background-color: white;
+}
+ #yemen3 {
+  background-color: black;
+}
 /* The Gambia */
+#gambia div {
+  height: 100px;
+  width: 800px;
+}
 
-/* Yemen */
+#gambia1 {
+  background-color: red;
+}
 
-/* The Gambia */
+#gambia2 {
+  background-color: blue;
+  margin-top: 10px;
+}
+ #gambia3 {
+  background-color: green;
+   margin-top: 10px;
+}
+
 
 /* Chad */
+#chad div {
+  height: 350px;
+  width: 266px;
+}
+
+#chad1 {
+  background-color: blue;
+  float:left;
+}
+
+#chad2 {
+  background-color: yellow;
+float:left;
+}
+ #chad3 {
+  background-color: red;
+   float:left;
+}
 
 /* France */
+#france div {
+  height: 350px;
+  width: 266px;
+}
+
+#france1 {
+  background-color: blue;
+  float:left;
+}
+
+#france2 {
+  background-color: white;
+float:left;
+}
+ #france3 {
+  background-color: red;
+   float:left;
+}
 
 /* Benin */
+#benin div {
 
-/* UAE */
+}
 
-/* Denmark */
+#benin1 {
+  background-color: green;
+  float:left;
+  height: 300px;
+  width: 200px;
 
-/* Norway */ 
+}
 
-/* Greece */
+#benin2 {
+  background-color: yellow;
+    height: 150px;
+  width: 600px;
+
+}
+ #benin3 {
+  background-color: red;
+     height: 150px;
+  width: 600px;
+
+}
+
 
 
 
